@@ -24,6 +24,11 @@ export class CocktailService {
         name : 'Pina Colalda',
         price : 7,
         image : 'https://assets.afcdn.com/recipe/20180605/79412_w800h600c1cx2000cy3000cxt0cyt0cxb4000cyb6000.jpg'
+      },
+      {
+        name : 'Tom Collins',
+        price : 8,
+        image : 'https://assets.afcdn.com/recipe/20180903/82120_w648h344c1cx1060cy707cxt0cyt0cxb2118cyb1412.jpg'
       }
     ]
   }
