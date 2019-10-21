@@ -1,0 +1,18 @@
+.list {
+    width: 500px;
+    margin: 0 auto;
+}
+
+img {
+    width : 500px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+ul {
+    margin-bottom: 30px;
+}
+
+ul li {
+    list-style: none;
+}
